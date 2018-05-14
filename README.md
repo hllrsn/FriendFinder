@@ -1,2 +1,2 @@
 # FriendFinder
-An app using Node and Express Servers.
+An app to find friends using Node and Express Servers.
