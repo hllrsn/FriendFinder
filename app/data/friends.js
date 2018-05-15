@@ -44,5 +44,17 @@ var friendsArray = [{
     scores: ["1", "4", "3", "3", "1", "4", "1", "1", "5", "1"]
 }];
 
+// Friends to add:
+// Patsy, Arthur's servant
+// Concorde, Lancelot's squire
+// Robin's Minstrels
+// Roger the Shrubber
+// The Knights Who Say 'Ni'
+// Tim the Enchanter
+// Prince Herbert
+// French Taunter
+// The Old Man from Scene 24
+// 1st Soldier with a keen interest in birds
+
 
 module.exports = friendsArray;
